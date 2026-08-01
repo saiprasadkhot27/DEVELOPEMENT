@@ -1,0 +1,14 @@
+{
+  "name": "sqlclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saiprasad",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
